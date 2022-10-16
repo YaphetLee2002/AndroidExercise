@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyRedAndBlue</string>
+    <string name="btn_text">点我更改颜色</string>
+</resources>

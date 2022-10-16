@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.servicetest"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:5:5-76
+11-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:5:22-74
+12
+13    <application
+13-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:6:5-27:19
+14        android:allowBackup="true"
+14-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\19057\.gradle\caches\transforms-3\a927d619ce56469f35da2fa2f2cd3b0b\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.ServiceTest" >
+22-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:12:9-49
+23        <service
+23-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:13:9-16:39
+24            android:name="com.example.servicetest.MyService"
+24-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:14:13-38
+25            android:enabled="true"
+25-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:15:13-35
+26            android:exported="true" />
+26-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:16:13-36
+27
+28        <activity
+28-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:18:9-26:20
+29            android:name="com.example.servicetest.MainActivity"
+29-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:19:13-41
+30            android:exported="true" >
+30-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:20:13-36
+31            <intent-filter>
+31-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:21:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:22:17-69
+32-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:24:17-77
+34-->C:\Users\19057\Documents\Codefield\file_android\ServiceTest\app\src\main\AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37    </application>
+38
+39</manifest>

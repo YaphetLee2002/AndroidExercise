@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\skooch02\.gradle\caches\transforms-3\51793d761161fbb6775a654a131eacc0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\81edc06fead910befe3c804c7b3d5c26\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\ca95861db53b6d6d2c5827d0d3f65dbd\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\eabbe6619bbb7c9bc0e3d47a82eec907\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\2bb0e6a373a0b5a707ec098156eb52d4\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\e0226971b7087bbf061045880653b4f3\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\083d3b0c4366c392bdd64512f565161e\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\796df3caf7c7fa453486eed651440b02\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\ad23c4749837d3e273ff1403819e91fc\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\bec20c12812432c22956b9f99f853f8a\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\57e92d04dd09c826694a2bf8222c6a18\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\03aca91c901170b8dad86a7f5930d5e4\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\52fac11476bb69f4b3d56a7eb1292c75\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\d49ebc1bf5f269d5ebe0d156e83b361a\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\c686c0959b530ae85fc2be245e00143d\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\5fd7ae812bdc3041c4c5c63770dbc02b\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\8ccb3334425f1a487aef9c6142306289\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\66b78a236459b1aff80bc971f5955e73\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\e6e781dae390eba1d5327d3441857f8c\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\5593dea38ee20d5ae2acddd4ef270f60\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\4a4b77c3adb0e21897b009db33ed12f4\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\727a5ac36b478420db3119db57e690ca\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\225c25f32d9dfbe52ae38a87c1929510\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\e119c7b2f38c46842eba5e6b38c48027\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\0d4f1d3438a108cc92bfd64920a76538\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\b8305dbc3955a7ff8fb1abb11043e462\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\96e7ec65ef4b05c0a599cc1c9fa95322\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\skooch02\.gradle\caches\transforms-3\51793d761161fbb6775a654a131eacc0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\skooch02\.gradle\caches\transforms-3\51793d761161fbb6775a654a131eacc0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\5fd7ae812bdc3041c4c5c63770dbc02b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\5fd7ae812bdc3041c4c5c63770dbc02b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\8ccb3334425f1a487aef9c6142306289\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\8ccb3334425f1a487aef9c6142306289\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\5fd7ae812bdc3041c4c5c63770dbc02b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:11:9-48
+activity#com.example.helloworld.MainActivity
+ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\skooch02\.gradle\caches\transforms-3\51793d761161fbb6775a654a131eacc0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\skooch02\.gradle\caches\transforms-3\51793d761161fbb6775a654a131eacc0\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\81edc06fead910befe3c804c7b3d5c26\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\81edc06fead910befe3c804c7b3d5c26\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\ca95861db53b6d6d2c5827d0d3f65dbd\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\ca95861db53b6d6d2c5827d0d3f65dbd\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\eabbe6619bbb7c9bc0e3d47a82eec907\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\eabbe6619bbb7c9bc0e3d47a82eec907\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\2bb0e6a373a0b5a707ec098156eb52d4\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\2bb0e6a373a0b5a707ec098156eb52d4\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\e0226971b7087bbf061045880653b4f3\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\e0226971b7087bbf061045880653b4f3\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\083d3b0c4366c392bdd64512f565161e\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\083d3b0c4366c392bdd64512f565161e\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\796df3caf7c7fa453486eed651440b02\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\796df3caf7c7fa453486eed651440b02\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\ad23c4749837d3e273ff1403819e91fc\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\ad23c4749837d3e273ff1403819e91fc\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\bec20c12812432c22956b9f99f853f8a\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\bec20c12812432c22956b9f99f853f8a\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\57e92d04dd09c826694a2bf8222c6a18\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\57e92d04dd09c826694a2bf8222c6a18\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\03aca91c901170b8dad86a7f5930d5e4\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\03aca91c901170b8dad86a7f5930d5e4\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\52fac11476bb69f4b3d56a7eb1292c75\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\52fac11476bb69f4b3d56a7eb1292c75\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\d49ebc1bf5f269d5ebe0d156e83b361a\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\d49ebc1bf5f269d5ebe0d156e83b361a\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\c686c0959b530ae85fc2be245e00143d\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\c686c0959b530ae85fc2be245e00143d\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\5fd7ae812bdc3041c4c5c63770dbc02b\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\5fd7ae812bdc3041c4c5c63770dbc02b\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\8ccb3334425f1a487aef9c6142306289\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\8ccb3334425f1a487aef9c6142306289\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\66b78a236459b1aff80bc971f5955e73\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\66b78a236459b1aff80bc971f5955e73\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\e6e781dae390eba1d5327d3441857f8c\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\e6e781dae390eba1d5327d3441857f8c\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\5593dea38ee20d5ae2acddd4ef270f60\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\5593dea38ee20d5ae2acddd4ef270f60\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\4a4b77c3adb0e21897b009db33ed12f4\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\4a4b77c3adb0e21897b009db33ed12f4\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\727a5ac36b478420db3119db57e690ca\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\727a5ac36b478420db3119db57e690ca\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\225c25f32d9dfbe52ae38a87c1929510\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\225c25f32d9dfbe52ae38a87c1929510\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\e119c7b2f38c46842eba5e6b38c48027\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\e119c7b2f38c46842eba5e6b38c48027\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\0d4f1d3438a108cc92bfd64920a76538\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\0d4f1d3438a108cc92bfd64920a76538\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\b8305dbc3955a7ff8fb1abb11043e462\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\skooch02\.gradle\caches\transforms-3\b8305dbc3955a7ff8fb1abb11043e462\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\96e7ec65ef4b05c0a599cc1c9fa95322\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\96e7ec65ef4b05c0a599cc1c9fa95322\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\skooch02\Documents\Codefield\file_android\HelloWorld\app\src\main\AndroidManifest.xml

@@ -1,0 +1,13 @@
+#Fri May 20 20:19:47 CST 2022
+path.3=6/classes.dex
+path.2=2/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=C\:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\exercise\\UIBestPractice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.2=C\:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\exercise\\UIBestPractice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.1=C\:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\exercise\\UIBestPractice\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\exercise\\UIBestPractice\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

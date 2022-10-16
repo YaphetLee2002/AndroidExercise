@@ -1,0 +1,13 @@
+<!--这个新闻内容界面留给小屏,是一个仅显示新闻内容的界面,其中引入了NewsContentFragment-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/newsContentFrag"
+        android:name="com.example.fragmentbestpractice.NewsContentFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

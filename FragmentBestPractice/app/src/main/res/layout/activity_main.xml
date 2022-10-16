@@ -1,0 +1,13 @@
+<!--这里的xml用来给小屏,表示仅加载一个title列表的RecyclerView布局-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/newsTitleLayout"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <fragment
+        android:id="@+id/newsTitleFrag"
+        android:name="com.example.fragmentbestpractice.NewsTitleFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</FrameLayout>

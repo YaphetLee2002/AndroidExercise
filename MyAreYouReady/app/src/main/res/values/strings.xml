@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAreYouReady</string>
+    <string name="boss">老板：我说你行你才行</string>
+    <string name="worker">打工人：我到底行不行</string>
+</resources>

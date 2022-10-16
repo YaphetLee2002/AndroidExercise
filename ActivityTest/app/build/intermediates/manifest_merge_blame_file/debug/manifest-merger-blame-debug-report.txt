@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.activitytest"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:6:5-43:19
+12        android:allowBackup="true"
+12-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] C:\Users\skooch02\.gradle\caches\transforms-3\5fd7ae812bdc3041c4c5c63770dbc02b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:8:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:9:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:10:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:11:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.ActivityTest" >
+20-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:12:9-50
+21        <activity
+21-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:13:9-21:20
+22            android:name="com.example.activitytest.ThirdActivity"
+22-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:14:13-42
+23            android:exported="true" >
+23-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:15:13-36
+24            <intent-filter>
+24-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:16:13-20:29
+25                <action android:name="android.intent.action.VIEW" />
+25-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:17:17-68
+25-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:17:25-66
+26
+27                <category android:name="android.intent.category.DEFAULT" />
+27-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:18:17-75
+27-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:18:27-73
+28
+29                <data android:scheme="https" />
+29-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:19:17-47
+29-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:19:23-45
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:22:9-32:20
+33            android:name="com.example.activitytest.SecondActivity"
+33-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:23:13-43
+34            android:exported="true"
+34-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:24:13-36
+35            android:launchMode="singleInstance" >
+35-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:25:13-48
+36            <intent-filter>
+36-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:26:13-31:29
+37                <action android:name="com.example.activitytest.ACTION_START" />
+37-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:27:17-80
+37-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:27:25-77
+38
+39                <category android:name="android.intent.category.DEFAULT" />
+39-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:18:17-75
+39-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:18:27-73
+40                <category android:name="com.example.activitytest.MY_CATEGORY" />
+40-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:30:17-81
+40-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:30:27-78
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:33:9-42:20
+44            android:name="com.example.activitytest.FirstActivity"
+44-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:34:13-42
+45            android:exported="true"
+45-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:35:13-36
+46            android:label="This is FirstActivity"
+46-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:37:13-50
+47            android:launchMode="singleTask" >
+47-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:36:13-44
+48            <intent-filter>
+48-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:38:13-41:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:39:17-69
+49-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:39:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:40:17-77
+51-->C:\Users\skooch02\Documents\Codefield\file_android\ActivityTest\app\src\main\AndroidManifest.xml:40:27-74
+52            </intent-filter>
+53        </activity>
+54    </application>
+55
+56</manifest>
